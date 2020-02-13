@@ -1,0 +1,172 @@
+/* Globals, Header & Nav -------------------------------------------------------------------------------------------------------- */
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    /* background-image: url("bg.png");     */
+    /* background-color: rgba(0, 0, 0, 0.233); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+svg{
+    width: 300px;
+    height: 300px;
+}
+iframe {
+    width: 100%;
+    height: 350px;
+}
+
+#display{
+    width: 100%;
+}
+
+.container {
+    /* width: 100%; */
+    /* height: 25%; */
+}
+
+.bg-fullstack {
+    /* background-color: rgba(194, 186, 186, 0.057); */
+    /* background-color: rgba(176, 143, 11, 0.133); */
+    
+}
+
+.fullstackSec {
+/*     
+    color: rgb(255, 255, 255);
+    text-align: center; */
+    
+    
+}
+
+.FullStackCard {
+    /* background-color: rgba(0, 0, 0, 0.194); */
+}
+
+.masthead {
+    /* background-image: url("assets/images/bg1.png");     */
+    /* background-image: url("bg1.png");     */
+    padding-top: 10%;
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* width: 100%; */
+    
+}
+
+nav{
+    /* background-color: rgba(0, 0, 0, 0.701); */
+    /* color: white; */
+    
+}
+.navbar-brand {
+    /* background-color: rgba(228, 190, 40, 0.804); */
+    /* color:rgba(228, 190, 40, 0.804); */
+
+    
+}
+nav.navbar-dark {
+    /* background-color: rgba(60, 59, 59, 0.276); */
+    /* margin-bottom: 0; */
+    
+    
+}
+.navbar-toggle{
+    /* background-color: rgba(228, 190, 40, 0.804); */
+    
+}
+.navbar-nav {
+    /* background-color: red; */
+    /* padding-left: 50%; */
+}
+#myCollapsingList{
+    /* background-color: rgba(41, 41, 41, 0.098); */
+    float: right;
+}
+.icon-bar{    
+    /* background-color: floralwhite; */
+}
+
+nav  a {
+    font-size: large;
+    text-decoration: none;
+    /* color: rgba(255, 250, 240, 0.283); */
+    /* color: floralwhite; */
+}
+
+button a {
+    color: white;
+}
+
+p ~ h5 {
+    
+    /* margin: 2%; */
+}
+
+
+
+.heroText {
+    /* color: white; */
+    text-align: center;
+    font-size: 4em;
+}
+#heroBtn {
+    /* color: rgba(255, 250, 240, 0.283); */
+    /* background-color: rgba(228, 191, 40, 0.215); */
+    /* background-color: rgba(228, 190, 40, 0.804); */
+    color: white;
+    /* font-size: large; */
+    text-align: center;
+    
+    
+}
+
+/* ABOUT section ------------------------------------------------------------------------------------------------------------ */
+.sec-about{
+    /* background-color: white; */
+    /* height: 100px; */
+}
+.sec-projects{
+    /* background-color: white; */
+    /* height: 50px; */
+}
+
+
+/* scs-center-about-CONTENT ------------------------- */
+#scs-center-about{    
+    /* padding-top: 30px; */
+    /* width: 33%; */
+    /* margin: 0 auto;     */
+    /* padding-bottom: 30px; */
+    /* background-image: url("assets/images/bg2.png"); */
+}
+
+/* 
+                scs-center-about-CONTENT                            
+-----------------------------------------------------
+*/
+#scs-center-circle-container {
+    width: 250px;
+    height: 250px;
+    /* padding: 30px; */
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+    /* background: url('assets/images/bg2.png') no-repeat center center;    */
+}
+
+#scs-center-circle-cover-bg {
+    background: url('assets/images/bg2.png') no-repeat center center;   
+    height: 100%; 
+    border-radius: 25%;
+}
+
+.FullStackCard img{
+    width: 300px;
+    height: 300px;
+}
+
